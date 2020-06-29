@@ -4,6 +4,20 @@
 
 [1]: https://www.npmjs.com/package/@google-cloud/pubsub?activeTab=versions
 
+## [2.2.0](https://www.github.com/googleapis/nodejs-pubsub/compare/v2.1.0...v2.2.0) (2020-06-29)
+
+
+### Features
+
+* add flow control settings for StreamingPullRequest to pubsub.proto ([#1035](https://www.github.com/googleapis/nodejs-pubsub/issues/1035)) ([a7dff65](https://www.github.com/googleapis/nodejs-pubsub/commit/a7dff65c1a4115e75251b775f679e6beb092928e))
+* move ts target to es2018 from es2016 ([#1022](https://www.github.com/googleapis/nodejs-pubsub/issues/1022)) ([016568d](https://www.github.com/googleapis/nodejs-pubsub/commit/016568df466c2a543762ab4f194b785a426ad880))
+
+
+### Bug Fixes
+
+* handle fallback option properly ([#1028](https://www.github.com/googleapis/nodejs-pubsub/issues/1028)) ([5dc1827](https://www.github.com/googleapis/nodejs-pubsub/commit/5dc18270220dbf39f5a871716b4dd9d002d0c536))
+* update node issue template ([#1033](https://www.github.com/googleapis/nodejs-pubsub/issues/1033)) ([52ba0ae](https://www.github.com/googleapis/nodejs-pubsub/commit/52ba0ae0218c0859a03d8ad9e4f27130ceb4cc61))
+
 ## [2.1.0](https://www.github.com/googleapis/nodejs-pubsub/compare/v2.0.0...v2.1.0) (2020-06-02)
 
 
